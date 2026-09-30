@@ -17,7 +17,7 @@
 
 - 🎓 Computer Science undergraduate at **BINUS University**
 - 💼 Nearly **1 year of experience** as a **Data Analyst** at the **BINUS IT Division**
-- 🧠 Familiar with using **SQL, Python, Excel, Tableau, Data Analytics, and AI/GenAI**
+- 🧠 Familiar with using **SQL, Python, Excel, Tableau, Data Analytics, Google Studio and AI/GenAI**
 - 🔍 Experienced in **data-driven and AI-related projects**, translating business requirements into clear technical solutions
 - 🌱 Currently growing my skills in **AI and data-driven roles** — building AI/GenAI and data solutions that automate processes and deliver measurable impact
 - 💬 Strong in **analytical thinking, problem solving, communication, and project documentation**
